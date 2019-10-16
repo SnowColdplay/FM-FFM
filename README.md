@@ -18,3 +18,5 @@ python main.py --model="fm" --model_path="./fm"
 ## ffm
 python main.py --model="ffm" --model_path="./ffm"
 ```
+
+注意在model_fn中要reshape操作
